@@ -1,7 +1,4 @@
 # Webworm-craigslist-
-
--fix Getinfo
-  - wont get into for loop
   
 -add option to look for their own job search
   - Url need to be fixed 
